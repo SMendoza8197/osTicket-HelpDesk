@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Agent Creation</h1>
-This tutorial outlines how to create an agent account in osTicket.
+<h1>osTicket - Help Desk Ticket</h1>
+This tutorial outlines how to work a ticket as help desk in osTicket.
 
 <h2>Environments and Technologies Used</h2>
 
